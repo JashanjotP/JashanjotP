@@ -28,7 +28,7 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,azure,bootstrap,c,cs,django,dotnet,express,firebase,fortran,git,github,java,jquery,linux,mongodb,mysql,nextjs,nodejs,npm,postgres,py,react,supabase,tailwind,ts,visualstudio,vscode,js,html,css)](https://skillicons.dev)
 
 ###
 
